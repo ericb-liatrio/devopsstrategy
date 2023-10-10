@@ -29,7 +29,7 @@ Base pdf of instructions for what to put together for this project from Liatrio.
 
 # About the author
 
-Eric Ballou - MountainMan Innovator - loves the mountains but also loves technology and doing anything automation/orchestration/business process/event driven/choreography.  Jack-of-All but master of few because the broad perspective can catalyze and synergize a team more than the specialist.
+Eric Ballou - MountainMan Innovator - loves the mountains but also loves technology and doing anything automation/orchestration/business process/event driven/choreography.  Jack-of-All but master of few because the broad perspective can catalyze and synergize a team.
 
 ## Support
 Create an issue.
